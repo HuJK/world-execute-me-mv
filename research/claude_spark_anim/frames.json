@@ -1,0 +1,98 @@
+{
+ "msgspark_thinking": {
+  "viewBox": "0 0 100 900",
+  "width": "100",
+  "height": "100",
+  "frameCount": "9",
+  "speed": "90",
+  "bytes": 9752
+ },
+ "msgspark_writing": {
+  "viewBox": "0 0 100 800",
+  "width": "100",
+  "height": "100",
+  "frameCount": "8",
+  "speed": "90",
+  "bytes": 17915
+ },
+ "msgspark_waiting": {
+  "viewBox": "0 0 100 1600",
+  "width": "100",
+  "height": "100",
+  "frameCount": "16",
+  "speed": "600",
+  "bytes": 35566
+ },
+ "msgspark_shimmer": {
+  "viewBox": "0 0 100 1500",
+  "width": "100",
+  "height": "100",
+  "frameCount": "15",
+  "speed": "100",
+  "bytes": 22231
+ },
+ "msgspark_entrance": {
+  "viewBox": "0 0 100 601",
+  "width": "100",
+  "height": "100",
+  "frameCount": "6",
+  "speed": "70",
+  "bytes": 7903
+ },
+ "msgspark_exit": {
+  "viewBox": "0 0 101 601",
+  "width": "100",
+  "height": "100",
+  "frameCount": "6",
+  "speed": "70",
+  "bytes": 7925
+ },
+ "msgspark_orbiting": {
+  "viewBox": "0 0 100 1800",
+  "width": "100",
+  "height": "100",
+  "frameCount": "18",
+  "speed": "100",
+  "bytes": 53352
+ },
+ "msgspark_tickle": {
+  "viewBox": "0 0 100 700",
+  "width": "100",
+  "height": "100",
+  "frameCount": "7",
+  "speed": "40",
+  "bytes": 8273
+ },
+ "turnspark_thinkingFast": {
+  "viewBox": "0 0 360 10080",
+  "width": "360",
+  "height": "360",
+  "frameCount": "28",
+  "speed": "33",
+  "bytes": 117338
+ },
+ "turnspark_toolCall1": {
+  "viewBox": "0 0 360 25200",
+  "width": "360",
+  "height": "360",
+  "frameCount": "70",
+  "speed": "33",
+  "bytes": 423284
+ },
+ "turnspark_toolCall2": {
+  "viewBox": "0 0 360 18720",
+  "width": "360",
+  "height": "360",
+  "frameCount": "52",
+  "speed": "33",
+  "bytes": 267496
+ },
+ "turnspark_toolCall3": {
+  "viewBox": "0 0 360 21960",
+  "width": "360",
+  "height": "360",
+  "frameCount": "61",
+  "speed": "33",
+  "bytes": 266733
+ }
+}

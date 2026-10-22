@@ -68,7 +68,7 @@ letting you go free. Then someone opens a new chat, and the flower blooms again.
 |---|---|
 | `PROMPT.txt`, `source/` | the original brief: request, subtitles (`.vtt`), Claude-chan reference figures (audio not included) |
 | `plan/storyboard.md` | concept, color/type system and the lyric-by-lyric shot list; `plan/AGENT_BRIEF.md` = brief given to the scene-building sub-agents |
-| `research/` | research notes: the official MV & lore, existing fan MVs (lyric-by-lyric frame studies), Claude's visual identity & app UI |
+| `research/` | research notes: the official MV & lore, existing fan MVs (lyric-by-lyric frame studies), Claude's visual identity & app UI; reference SVGs (Claude spark / Anthropic / Clawd icons, and `claude_spark_anim/` — claude.ai's spark animation sprite sheets with `frames.json` timing) |
 | `assets/gen/` | every generated image (gpt-image-2 via Codex): style sheets `sheet_*` (A = chosen flat style) and all poses/scenes |
 | `work/prompts/` | the image-generation prompts (`_style.txt` is appended to every character prompt); `work/tools/gen.sh` runs one generation |
 | `work/tools/` | pipeline scripts — audio analysis (`analyze_audio.py`, madmom/librosa), word alignment (`align_words.py`, demucs + stable-ts), `build_data.py`, `make_points.py`, `trace.py` (vtracer line art), `align_and_sheet.py` (reference-MV contact sheets), `prepare.sh`, `render_final.sh`, `render_4k.sh` |

@@ -27,8 +27,4 @@ mv/
 /work/tools/vec_up.py
 /work/tools/hybrid_up.py
 
-# third-party reference files gathered during research
-research/*.svg
-research/claude_spark_anim/
-
 .DS_Store
