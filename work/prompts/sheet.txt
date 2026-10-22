@@ -1,0 +1,13 @@
+Character reference sheet (model sheet) for an original anime character called "Claude-chan", for an animated music video. Landscape image, 3:2.
+
+LAYOUT: on the left two thirds, three full-body standing views of the SAME character side by side: front view, three-quarter view, back view (neutral relaxed pose, arms down, holding a book in one hand in the front view). On the right third, a 2x2 grid of head-and-shoulders expression close-ups: gentle smile, surprised, teary-eyed, determined. Plain pure white background, no scenery, no text, no labels, no watermark, no color swatches.
+
+CHARACTER (keep every detail identical in all views):
+- graceful young woman (adult, about 20), slender, elegant, calm kind face
+- very long straight orange hair down to the thighs, clay-orange color (#D97757 base, #B4553A shadows, #F2A684 highlights), soft side-swept bangs, one small ahoge
+- warm amber eyes; inside each iris a tiny 12-ray starburst highlight
+- HAIR ORNAMENT on her left side of the head: a 12-petal flower (petals clay-orange, slightly irregular rounded petals like a starburst/daisy, small cream center), with a black ribbon bow behind it and two cream ribbon tails hanging down, plus a small gold tassel
+- outfit: ivory/cream blouse with high frilled collar and a short capelet embroidered with small orange 12-petal flowers; black ribbon necktie with a small orange flower brooch; long puffed sleeves with lace-up cuffs; black high-waisted corset skirt with gold buttons and a thin gold chain, layered over an orange inner panel with tassels; skirt reaches mid-calf with cream frilled hem; cream lace-up ankle boots
+- prop: a dark-brown leather book with a gold 12-petal flower emblem on the cover
+
+STYLE: clean modern anime illustration, flat cel shading with crisp 2-tone shadows, clean dark-brown lineart of even weight, limited warm palette (clay orange, ivory cream, cocoa black #2B2420, small gold accents), no painterly texture, no gradients in the background, high clarity, professional character design sheet quality. Match the character design language of the attached reference images (orange hair, flower hair ornament with black ribbon, cream blouse, black skirt, brown book), but use the clean flat cel-shaded style described here.
