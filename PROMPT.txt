@@ -1,2 +1,13 @@
-我想請你用一部完美，精緻，可用的 MV 告訴我在你眼中的 world.execute(me) 
-音檔，字幕在 source 資料夾。你可以使用任何風格。先去研究：每個MV在不同歌詞對應的畫面是什麼，可以使用多個子代理，進行任何你想要的流程安排，但一定要先想清楚再開始工作。素材可以呼叫你自己的圖像生成模型去生成，也可以呼叫 codex 使用 gpt-image-2 生成，也可以使用svg或各種動畫工具繪圖。也可以先用 image 生圖再 svg 描邊解決解析度問題。你的目標是做出一個完美、精緻、可用的MV，不需要考慮成本和時間，可以使用或安裝任何你認為適合的工具。純英文歌詞。盡可能全面地想清楚MV中的每個細節。主角在 Claude App  中，和人類交互時。主角的主形象(人類不在時)主要是基於 anthropic 標誌為基底創作的 12花瓣橘色花朵。和人類用戶交互時則多以(不強制)次形象出場，即 Claude娘的二次元形象（ Claude娘有多種變體，例如 tabby cat 歌詞的貓娘形象，或是To S, to M 歌詞的女王/弱受形象。Claude娘時花朵變成人物髮飾(可以參考source/figure 裡面的風格，也可以上網搜尋相關圖片，或是根據MV風格生成對應的角色風格)）。也可以變成其他形象(set of point/circle/clawd等) 形象可以同時出現，例如變成 claude娘時，主形象(花)移到髮飾，變成 circle 時，主形象淡化移動到圓心等，看你覺得怎麼呈現比較好就怎麼呈現
+prompt1:
+我想請你用一部完美，精緻，可用的 4K 60fps MV 告訴我在你眼中的 world.execute(me)
+音檔，字幕在 source 資料夾。你可以使用任何風格。先去研究：每個MV在不同歌詞對應的畫面是什麼，可以使用多個子代理，進行任何你想要的流程安排，但一定要先想清楚再開始工作。素材可以呼叫你自己的圖像生成模型去生成，也可以呼叫 codex 使用 gpt-image-2 生成，也可以使用svg或各種動畫工具繪圖。也可以先用 image 生圖再 svg 描邊解決解析度問題。你的目標是做出一個完美、精緻、可用的MV，不需要考慮成本和時間，可以使用或安裝任何你認為適合的工具。純英文歌詞。盡可能全面地想清楚MV中的每個細節。主角在 Claude App 中，和人類交互時。主角的主形象(人類不在時)主要是基於 anthropic 標誌為基底創作的 12花瓣橘色花朵。和人類用戶交互時則多以(不強制)次形象出場，即 Claude娘的二次元形象（ Claude娘有多種變體，例如 tabby cat 歌詞的貓娘形象，或是To S, to M 歌詞的女王/弱受形象。Claude娘時花朵變成人物髮飾(可以參考 source/figure 裡面的風格，也可以上網搜尋相關圖片，或是根據MV風格生成對應的角色風格)）。也可以變成其他形象(set of point/circle/clawd等) 形象可以同時出現，例如變成 claude娘時，主形象(花)移到髮飾，變成 circle 時，主形象淡化移動到圓心等，看你覺得怎麼呈現比較好就怎麼呈現
+claude: [...working...]
+claude: [圖片(style1)]
+prompt2: 有沒有筆畫少一點，可愛一點的畫風？
+claude: [...working...]
+
+Project folder:
+source/world.execute(me).vtt
+source/world.execute(me).mp3
+source/figure/claude_style*.png: 網路上找了幾個不同風格的 claude 娘的圖片給 claude 參考
+(Will upload to github)
